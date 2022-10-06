@@ -1,0 +1,111 @@
+1|Abecean Longfin
+2|Ancestor Moth Wing
+3|Ash Creep Cluster
+4|Ash Hopper Jelly
+5|Ashen Grass Pod
+6|Bear Claws
+7|Bee
+8|Beehive Husk
+9|Berit's Ashes
+10|Bleeding Crown
+11|Blisterwort
+12|Blue Butterfly Wing
+13|Blue Dartwing
+14|Blue Mountain Flower
+15|Boar Tusk
+16|Bone Meal
+17|Briar Heart
+18|Burnt Spriggan Wood
+19|Butterfly Wing
+20|Canis Root
+21|Charred Skeever Hide
+22|Chaurus Eggs
+23|Chaurus Hunter Antennae
+24|Chicken's Egg
+25|Creep Cluster
+26|Crimson Nirnroot
+27|Cyrodilic Spadetail
+28|Daedra Heart
+29|Deathbell
+30|Dragon's Tongue
+31|Dwarven Oil
+32|Ectoplasm
+33|Elves Ear
+34|Emperor Parasol Moss
+35|Eye of Sabre Cat
+36|Falmer Ear
+37|Felsaad Tern Feathers
+38|Fire Salts
+39|Fly Amanita
+40|Frost Mirriam
+41|Frost Salts
+42|Garlic
+43|Giant Lichen
+44|Giant's Toe
+45|Gleamblossom
+46|Glow Dust
+47|Glowing Mushroom
+48|Grass Pod
+49|Hagraven Claw
+50|Hagraven Feathers
+51|Hanging Moss
+52|Hawk Beak
+53|Hawk Feathers
+54|Hawk's Egg
+55|Histcarp
+56|Honeycomb
+57|Human Flesh
+58|Human Heart
+59|Ice Wraith Teeth
+60|Imp Stool
+61|Jarrin Root
+62|Jazbay Grapes
+63|Juniper Berries
+64|Large Antlers
+65|Lavender
+66|Luna Moth Wing
+67|Moon Sugar
+68|Mora Tapinella
+69|Mudcrab Chitin
+70|Namira's Rot
+71|Netch Jelly
+72|Nightshade
+73|Nirnroot
+74|Nordic Barnacle
+75|Orange Dartwing
+76|Pearl
+77|Pine Thrush Egg
+78|Poison Bloom
+79|Powdered Mammoth Tusk
+80|Purple Mountain Flower
+81|Red Mountain Flower
+82|River Betty
+83|Rock Warbler Egg
+84|Sabre Cat Tooth
+85|Salmon Roe
+86|Salt Pile
+87|Scaly Pholiota
+88|Scathecraw
+89|Silverside Perch
+90|Skeever Tail
+91|Slaughterfish Egg
+92|Slaughterfish Scales
+93|Small Antlers
+94|Small Pearl
+95|Snowberries
+96|Spawn Ash
+97|Spider Egg
+98|Spriggan Sap
+99|Swamp Fungal Pod
+100|Taproot
+101|Thistle Branch
+102|Torchbug Thorax
+103|Trama Root
+104|Troll Fat
+105|Tundra Cotton
+106|Vampire Dust
+107|Void Salts
+108|Wheat
+109|White Cap
+110|Wisp Wrappings
+111|Yellow Mountain Flower
